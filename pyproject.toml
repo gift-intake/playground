@@ -6,8 +6,11 @@ authors = ["Bruce  <97542494+BruceNiemi@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = ">=3.9,<3.13"
+spacy = "^3.8.3"
 
+[tool.poetry.group.dev.dependencies]
+jupyterlab = "^4.3.3"
 
 [build-system]
 requires = ["poetry-core"]
