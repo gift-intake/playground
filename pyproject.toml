@@ -10,6 +10,7 @@ python = ">=3.9,<3.13"
 spacy = "^3.8.3"
 ollama = "^0.4.4"
 gliner = "^0.2.13"
+scikit-learn = "^1.6.1"
 
 [tool.poetry.group.dev.dependencies]
 jupyterlab = "^4.3.3"
