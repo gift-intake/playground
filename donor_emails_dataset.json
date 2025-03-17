@@ -1,0 +1,4502 @@
+[
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $25,000 USD to the Department of Computer Science at Maple University. I would like the funds to go towards student support for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at sarah.johnson@donor.net.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $20,000 CAD to the Department of Computer Science at Greenfield Institute. I would like the funds to go towards endowment fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@email.com.\n\nThanks,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $25,000 USD to the Faculty of Engineering at Greenfield Institute. I would like the funds to go towards scholarship for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at sarah.johnson@donor.net.\n\nBest regards,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $25,000 EUR to the Faculty of Engineering at Oakwood University. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at emily.carter@donor.net.\n\nThanks,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $15,000 GBP to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at St. Andrew\u2019s College. I would like the funds to go towards endowment fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@supporters.org.\n\nThanks,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $5,000 CAD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Maple University. I would like the funds to go towards scholarship for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at robert.mitchell@email.com.\n\nThanks,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $25,000 GBP to the School of Business at Oakwood University. I would like the funds to go towards student support for students in the Mechanical Engineering program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at robert.mitchell@university.org.\n\nThanks,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $5,000 GBP to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Maple University. I would like the funds to go towards research fund for students in the Environmental Studies program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at sarah.johnson@university.org.\n\nSincerely,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $5,000 EUR to the School of Business at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@email.com.\n\nCheers,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $5,000 GBP to the Department of Computer Science at Oakwood University. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at david.brown@supporters.org.\n\nSincerely,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $10,000 GBP to the Faculty of Engineering at Maple University. I would like the funds to go towards student support for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at sarah.johnson@supporters.org.\n\nBest regards,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $25,000 CAD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Oakwood University. I would like the funds to go towards scholarship for students in the Environmental Studies program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at emily.carter@email.com.\n\nThanks,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $15,000 USD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Maple University. I would like the funds to go towards research fund for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at jonathan.smith@donor.net.\n\nSincerely,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $10,000 USD to the School of Business at St. Andrew\u2019s College. I would like the funds to go towards student support for students in the Mechanical Engineering program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at david.brown@university.org.\n\nBest regards,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $5,000 EUR to the Department of Computer Science at Greenfield Institute. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at robert.mitchell@university.org.\n\nThanks,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $10,000 CAD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at St. Andrew\u2019s College. I would like the funds to go towards endowment fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at sarah.johnson@university.org.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $10,000 USD to the School of Business at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Data Science and AI program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at jonathan.smith@supporters.org.\n\nSincerely,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $25,000 EUR to the Department of Computer Science at St. Andrew\u2019s College. I would like the funds to go towards scholarship for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at robert.mitchell@supporters.org.\n\nSincerely,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $5,000 CAD to the School of Business at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at emily.carter@supporters.org.\n\nSincerely,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $20,000 USD to the Faculty of Engineering at Greenfield Institute. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at emily.carter@university.org.\n\nBest regards,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $20,000 USD to the School of Business at Oakwood University. I would like the funds to go towards scholarship for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at sarah.johnson@email.com.\n\nThanks,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $15,000 CAD to the Department of Computer Science at Maple University. I would like the funds to go towards scholarship for students in the Data Science and AI program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at sarah.johnson@supporters.org.\n\nBest regards,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $10,000 EUR to the Faculty of Engineering at Oakwood University. I would like the funds to go towards endowment fund for students in the Data Science and AI program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at emily.carter@donor.net.\n\nCheers,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $20,000 EUR to the Department of Computer Science at Maple University. I would like the funds to go towards research fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at emily.carter@university.org.\n\nCheers,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $10,000 CAD to the Department of Computer Science at Oakwood University. I would like the funds to go towards research fund for students in the Data Science and AI program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at sarah.johnson@donor.net.\n\nBest regards,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $20,000 EUR to the Department of Computer Science at Oakwood University. I would like the funds to go towards student support for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at emily.carter@supporters.org.\n\nSincerely,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $10,000 EUR to the Faculty of Engineering at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at david.brown@university.org.\n\nThanks,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $20,000 CAD to the Faculty of Engineering at St. Andrew\u2019s College. I would like the funds to go towards student support for students in the Mechanical Engineering program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at jonathan.smith@email.com.\n\nBest regards,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $15,000 USD to the Department of Computer Science at Maple University. I would like the funds to go towards scholarship for students in the Mechanical Engineering program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@supporters.org.\n\nThanks,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $10,000 GBP to the Faculty of Engineering at Maple University. I would like the funds to go towards scholarship for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at david.brown@email.com.\n\nCheers,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $25,000 USD to the Department of Computer Science at St. Andrew\u2019s College. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at jonathan.smith@supporters.org.\n\nBest regards,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $5,000 EUR to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Oakwood University. I would like the funds to go towards research fund for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at sarah.johnson@supporters.org.\n\nSincerely,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $10,000 CAD to the Faculty of Engineering at Oakwood University. I would like the funds to go towards research fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@email.com.\n\nCheers,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $10,000 GBP to the Faculty of Engineering at Oakwood University. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at emily.carter@email.com.\n\nCheers,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $5,000 EUR to the Faculty of Engineering at Maple University. I would like the funds to go towards scholarship for students in the Data Science and AI program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at emily.carter@donor.net.\n\nBest regards,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $10,000 USD to the Department of Computer Science at Greenfield Institute. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at sarah.johnson@email.com.\n\nBest regards,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $15,000 GBP to the Department of Computer Science at Maple University. I would like the funds to go towards endowment fund for students in the Data Science and AI program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at robert.mitchell@email.com.\n\nSincerely,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $15,000 CAD to the School of Business at Maple University. I would like the funds to go towards scholarship for students in the Mechanical Engineering program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at jonathan.smith@donor.net.\n\nBest regards,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $25,000 EUR to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Maple University. I would like the funds to go towards research fund for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at sarah.johnson@donor.net.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $25,000 USD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Greenfield Institute. I would like the funds to go towards student support for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at emily.carter@university.org.\n\nBest regards,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $15,000 EUR to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Greenfield Institute. I would like the funds to go towards endowment fund for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at robert.mitchell@university.org.\n\nSincerely,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $25,000 USD to the Department of Computer Science at Greenfield Institute. I would like the funds to go towards scholarship for students in the Environmental Studies program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at sarah.johnson@donor.net.\n\nBest regards,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $15,000 EUR to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Maple University. I would like the funds to go towards scholarship for students in the Mechanical Engineering program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at jonathan.smith@supporters.org.\n\nCheers,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $25,000 EUR to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Greenfield Institute. I would like the funds to go towards research fund for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at jonathan.smith@email.com.\n\nThanks,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $5,000 CAD to the School of Business at Oakwood University. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at sarah.johnson@supporters.org.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $10,000 EUR to the Department of Computer Science at St. Andrew\u2019s College. I would like the funds to go towards endowment fund for students in the Data Science and AI program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at sarah.johnson@supporters.org.\n\nBest regards,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $15,000 EUR to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Oakwood University. I would like the funds to go towards endowment fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at emily.carter@university.org.\n\nThanks,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $25,000 USD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at St. Andrew\u2019s College. I would like the funds to go towards endowment fund for students in the Data Science and AI program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at sarah.johnson@email.com.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $10,000 USD to the School of Business at Maple University. I would like the funds to go towards student support for students in the Mechanical Engineering program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at emily.carter@university.org.\n\nCheers,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $5,000 CAD to the Department of Computer Science at Greenfield Institute. I would like the funds to go towards research fund for students in the Data Science and AI program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@university.org.\n\nThanks,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $20,000 USD to the Faculty of Engineering at Greenfield Institute. I would like the funds to go towards research fund for students in the Data Science and AI program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at david.brown@email.com.\n\nCheers,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $20,000 USD to the Department of Computer Science at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at emily.carter@supporters.org.\n\nSincerely,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $10,000 EUR to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Greenfield Institute. I would like the funds to go towards endowment fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at emily.carter@email.com.\n\nThanks,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $10,000 USD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at St. Andrew\u2019s College. I would like the funds to go towards student support for students in the Environmental Studies program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at robert.mitchell@email.com.\n\nSincerely,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $20,000 GBP to the School of Business at Greenfield Institute. I would like the funds to go towards scholarship for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at robert.mitchell@university.org.\n\nSincerely,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $5,000 GBP to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Oakwood University. I would like the funds to go towards scholarship for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at david.brown@email.com.\n\nSincerely,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $5,000 CAD to the Faculty of Engineering at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Data Science and AI program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@supporters.org.\n\nThanks,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $15,000 USD to the Faculty of Engineering at St. Andrew\u2019s College. I would like the funds to go towards student support for students in the Data Science and AI program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at sarah.johnson@supporters.org.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $15,000 GBP to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at St. Andrew\u2019s College. I would like the funds to go towards student support for students in the Environmental Studies program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@supporters.org.\n\nBest regards,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $20,000 EUR to the Department of Computer Science at Oakwood University. I would like the funds to go towards endowment fund for students in the Data Science and AI program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at david.brown@university.org.\n\nCheers,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $15,000 CAD to the Faculty of Engineering at Maple University. I would like the funds to go towards student support for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at sarah.johnson@email.com.\n\nThanks,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $5,000 EUR to the Department of Computer Science at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Data Science and AI program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at emily.carter@donor.net.\n\nThanks,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $15,000 EUR to the School of Business at Maple University. I would like the funds to go towards research fund for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at david.brown@email.com.\n\nThanks,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $15,000 EUR to the School of Business at St. Andrew\u2019s College. I would like the funds to go towards student support for students in the Environmental Studies program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at sarah.johnson@supporters.org.\n\nSincerely,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $20,000 EUR to the School of Business at Greenfield Institute. I would like the funds to go towards scholarship for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at sarah.johnson@university.org.\n\nBest regards,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $25,000 EUR to the Faculty of Engineering at Oakwood University. I would like the funds to go towards scholarship for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at jonathan.smith@donor.net.\n\nCheers,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $25,000 GBP to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Environmental Studies program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at robert.mitchell@email.com.\n\nSincerely,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $15,000 CAD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Maple University. I would like the funds to go towards endowment fund for students in the Data Science and AI program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@supporters.org.\n\nBest regards,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $15,000 CAD to the School of Business at Maple University. I would like the funds to go towards student support for students in the Environmental Studies program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at david.brown@donor.net.\n\nBest regards,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $10,000 USD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at St. Andrew\u2019s College. I would like the funds to go towards scholarship for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at sarah.johnson@email.com.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $20,000 USD to the Faculty of Engineering at Oakwood University. I would like the funds to go towards scholarship for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at david.brown@email.com.\n\nBest regards,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $10,000 GBP to the Department of Computer Science at Oakwood University. I would like the funds to go towards student support for students in the Environmental Studies program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at emily.carter@university.org.\n\nThanks,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $15,000 GBP to the Faculty of Engineering at Maple University. I would like the funds to go towards student support for students in the Mechanical Engineering program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at emily.carter@email.com.\n\nSincerely,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $20,000 EUR to the School of Business at Oakwood University. I would like the funds to go towards research fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@email.com.\n\nSincerely,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $20,000 GBP to the School of Business at Oakwood University. I would like the funds to go towards endowment fund for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at david.brown@university.org.\n\nBest regards,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $15,000 USD to the Department of Computer Science at St. Andrew\u2019s College. I would like the funds to go towards endowment fund for students in the Data Science and AI program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at robert.mitchell@supporters.org.\n\nSincerely,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $25,000 EUR to the School of Business at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Data Science and AI program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at sarah.johnson@university.org.\n\nSincerely,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $20,000 CAD to the Faculty of Engineering at Maple University. I would like the funds to go towards research fund for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at emily.carter@supporters.org.\n\nThanks,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$20,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $5,000 EUR to the Faculty of Engineering at Maple University. I would like the funds to go towards endowment fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at emily.carter@email.com.\n\nBest regards,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $25,000 GBP to the Department of Computer Science at Greenfield Institute. I would like the funds to go towards student support for students in the Environmental Studies program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at emily.carter@university.org.\n\nSincerely,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $15,000 CAD to the Department of Computer Science at Maple University. I would like the funds to go towards scholarship for students in the Data Science and AI program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at sarah.johnson@donor.net.\n\nBest regards,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $15,000 CAD to the Department of Computer Science at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Data Science and AI program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at emily.carter@donor.net.\n\nBest regards,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $5,000 CAD to the Department of Computer Science at Oakwood University. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at sarah.johnson@email.com.\n\nBest regards,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $25,000 EUR to the School of Business at Greenfield Institute. I would like the funds to go towards student support for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at david.brown@university.org.\n\nBest regards,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $5,000 USD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Maple University. I would like the funds to go towards scholarship for students in the Mechanical Engineering program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at emily.carter@supporters.org.\n\nBest regards,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Mr. Adams,\n\nI am interested in donating $15,000 USD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Greenfield Institute. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at sarah.johnson@supporters.org.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Mr. Adams",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $5,000 USD to the Faculty of Engineering at Maple University. I would like the funds to go towards student support for students in the Data Science and AI program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at emily.carter@email.com.\n\nThanks,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "USD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $5,000 CAD to the Department of Computer Science at Maple University. I would like the funds to go towards endowment fund for students in the Mechanical Engineering program.\n\nMy preferred payment method is credit card. Please let me know the next steps. You can contact me at jonathan.smith@university.org.\n\nCheers,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "credit card",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $15,000 CAD to the Faculty of Engineering at Maple University. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at sarah.johnson@university.org.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $10,000 EUR to the Faculty of Engineering at Oakwood University. I would like the funds to go towards student support for students in the Mechanical Engineering program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at emily.carter@email.com.\n\nSincerely,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $15,000 EUR to the School of Business at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at emily.carter@donor.net.\n\nSincerely,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "School of Business",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@donor.net",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $25,000 GBP to the Department of Computer Science at Maple University. I would like the funds to go towards endowment fund for students in the Environmental Studies program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at robert.mitchell@supporters.org.\n\nSincerely,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $10,000 CAD to the Faculty of Engineering at St. Andrew\u2019s College. I would like the funds to go towards student support for students in the Mechanical Engineering program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at emily.carter@university.org.\n\nBest regards,\nEmily Carter",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Emily Carter",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Mechanical Engineering",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "emily.carter@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $25,000 CAD to the Department of Computer Science at Maple University. I would like the funds to go towards endowment fund for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at jonathan.smith@university.org.\n\nThanks,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@university.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $10,000 CAD to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at Greenfield Institute. I would like the funds to go towards student support for students in the Environmental Studies program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at robert.mitchell@email.com.\n\nBest regards,\nRobert Mitchell",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Robert Mitchell",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Greenfield Institute",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "student support",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "CAD",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "robert.mitchell@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $5,000 GBP to the Department of Computer Science at Maple University. I would like the funds to go towards research fund for students in the Data Science and AI program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at jonathan.smith@supporters.org.\n\nCheers,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Maple University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Data Science and AI",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$5,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Stevens,\n\nI am interested in donating $25,000 EUR to the Faculty of Engineering at St. Andrew\u2019s College. I would like the funds to go towards scholarship for students in the Environmental Studies program.\n\nMy preferred payment method is PayPal. Please let me know the next steps. You can contact me at david.brown@supporters.org.\n\nCheers,\nDavid Brown",
+    "entities": [
+      {
+        "entity": "Dr. Stevens",
+        "types": ["Name"]
+      },
+      {
+        "entity": "David Brown",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "PayPal",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "david.brown@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Ms. Catherine Reynolds,\n\nI am interested in donating $10,000 EUR to the Faculty of Engineering at St. Andrew\u2019s College. I would like the funds to go towards endowment fund for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is check. Please let me know the next steps. You can contact me at sarah.johnson@email.com.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Ms. Catherine Reynolds",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Faculty of Engineering",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "endowment fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "check",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$10,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@email.com",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Professor Lee,\n\nI am interested in donating $15,000 GBP to the Department of Computer Science at Oakwood University. I would like the funds to go towards scholarship for students in the Actuarial Mathematics - Business program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at jonathan.smith@supporters.org.\n\nThanks,\nJonathan Smith",
+    "entities": [
+      {
+        "entity": "Professor Lee",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Jonathan Smith",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Department of Computer Science",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "Oakwood University",
+        "types": ["College"]
+      },
+      {
+        "entity": "Actuarial Mathematics - Business",
+        "types": ["Program"]
+      },
+      {
+        "entity": "scholarship",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$15,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "GBP",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "jonathan.smith@supporters.org",
+        "types": ["Email"]
+      }
+    ]
+  },
+  {
+    "text": "Subject: Donation Inquiry\n\nDear Dr. Taylor,\n\nI am interested in donating $25,000 EUR to the Clayton H. Riddell Faculty of Environment, Earth, and Resources at St. Andrew\u2019s College. I would like the funds to go towards research fund for students in the Environmental Studies program.\n\nMy preferred payment method is wire transfer. Please let me know the next steps. You can contact me at sarah.johnson@university.org.\n\nCheers,\nSarah Johnson",
+    "entities": [
+      {
+        "entity": "Dr. Taylor",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Sarah Johnson",
+        "types": ["Name"]
+      },
+      {
+        "entity": "Clayton H. Riddell Faculty of Environment, Earth, and Resources",
+        "types": ["Faculty"]
+      },
+      {
+        "entity": "St. Andrew\u2019s College",
+        "types": ["College"]
+      },
+      {
+        "entity": "Environmental Studies",
+        "types": ["Program"]
+      },
+      {
+        "entity": "research fund",
+        "types": ["Distribution"]
+      },
+      {
+        "entity": "wire transfer",
+        "types": ["PaymentMethod"]
+      },
+      {
+        "entity": "$25,000",
+        "types": ["Money"]
+      },
+      {
+        "entity": "EUR",
+        "types": ["Currency"]
+      },
+      {
+        "entity": "sarah.johnson@university.org",
+        "types": ["Email"]
+      }
+    ]
+  }
+]
